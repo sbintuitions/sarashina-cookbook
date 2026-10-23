@@ -1,3 +1,7 @@
+<p align="center">
+  <b>日本語</b> | <a href="README.en.md">English</a>
+</p>
+
 # Sarashina Cookbook
 
 Sarashina Cookbook は、Sarashina API を使ってアプリケーションを構築するためのコードとガイドを集めたリポジトリです。
