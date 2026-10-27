@@ -38,3 +38,7 @@ If you are new to the Sarashina API, we recommend starting with the quickstart i
 - [Sarashina API documentation](https://docs.sarashina.ai)
 - [Sarashina official website](https://sarashina.ai)
 - [SB Intuitions official website](https://www.sbintuitions.co.jp/en/)
+
+## License
+
+This repository is released under the MIT License. See [LICENSE](LICENSE) for details.

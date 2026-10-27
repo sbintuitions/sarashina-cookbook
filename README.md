@@ -39,3 +39,6 @@ Sarashina の API を初めて使う方は、まず[公式の API ドキュメ�
 - [Sarashina 公式サイト](https://sarashina.ai)
 - [SB Intuitions 公式サイト](https://www.sbintuitions.co.jp)
 
+## ライセンス
+
+このリポジトリは MIT ライセンスで公開しています。詳細は [LICENSE](LICENSE) を参照してください。
