@@ -1,0 +1,18 @@
+[project]
+name = "sarashina-cookbook"
+version = "0.1.0"
+description = "Cookbook for building applications with the Sarashina API"
+readme = "README.md"
+authors = []
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.5.4",
+    "python-dotenv>=1.2.4",
+    "requests>=2.34.2",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.16.10",
+    "ty>=0.0.84",
+]
