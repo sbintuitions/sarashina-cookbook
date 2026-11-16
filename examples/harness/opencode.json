@@ -1,0 +1,19 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "providers": {
+    "sarashina": {
+      "name": "Sarashina API",
+      "env": ["SARASHINA_API_KEY"],
+      "package": "@opencode/ai/providers/openai-compatible",
+      "settings": {
+        "baseURL": "https://api.sarashina.ai/v1"
+      },
+      "models": {
+        "sarashina3.2-mini-thinking": {
+          "name": "Sarashina3.2 mini thinking",
+          "limit": { "context": 128000, "output": 8000 }
+        }
+      }
+    }
+  }
+}
