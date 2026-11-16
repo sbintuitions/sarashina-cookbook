@@ -32,6 +32,11 @@ If you are new to the Sarashina API, we recommend starting with the quickstart i
 ### RAG (Retrieval-Augmented Generation)
 
 - [Example of building a RAG system with Sarashina]()
+- [Improving RAG Retrieval Accuracy with Sarashina (1/2)](https://www.sbintuitions.co.jp/blog/entry/2026/11/12/170000)
+
+### Coding Agents
+
+- [Using Sarashina with Coding Agents: OpenCode, Hermes Agent, and Crush Integrations and Use as a Subagent](https://www.sbintuitions.co.jp/blog/entry/2026/11/06/100000)
 
 ## Links
 

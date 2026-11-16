@@ -32,6 +32,11 @@ Sarashina の API を初めて使う方は、まず[公式の API ドキュメ�
 ### RAG(検索拡張生成)
 
 - [Sarashina を利用した RAG システム実現例]()
+- [Sarashina を利用した RAG 検索精度の改善 (1/2)](https://www.sbintuitions.co.jp/blog/entry/2026/11/12/170000)
+
+### コーディングエージェント
+
+- [Sarashina をコーディングエージェントで使う: OpenCode・Hermes Agent・Crush での利用と、サブエージェントとしての活用](https://www.sbintuitions.co.jp/blog/entry/2026/11/06/100000)
 
 ## 関連リンク
 
